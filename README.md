@@ -31,7 +31,7 @@ The model helps admission committees make data-driven decisions by automatically
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YourUsername/student-ability-classifier.git](https://github.com/YourUsername/student-ability-classifier.git)
+    git clone https://github.com/KSAahil/student-ability-classifier.git
     cd student-ability-classifier
     ```
 
@@ -52,4 +52,5 @@ The model helps admission committees make data-driven decisions by automatically
 ├── src/                # Application source code
 │   └── app.py
 ├── requirements.txt    # Project dependencies
+
 └── README.md           # Project documentation
